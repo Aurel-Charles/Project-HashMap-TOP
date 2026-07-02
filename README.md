@@ -1,6 +1,6 @@
 # HashMap
 
-JavaScript HashMap implementation built on top of a real linked list (from [The Odin Project](https://www.theodinproject.com/)).
+JavaScript HashMap implementation built on top of a real linked list (from [The Odin Project](https://www.theodinproject.com/lessons/javascript-hashmap)).
 
 ## Structure
 
